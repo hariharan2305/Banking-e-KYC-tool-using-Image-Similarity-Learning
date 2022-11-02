@@ -1,0 +1,1 @@
+AZURE_STORAGE_CONNECTION_STRING = "DefaultEndpointsProtocol1982=https;AccountName=blobstorage579;AccountKey=/7/X8oOZxY6z5je1iO/NxBurOJCb5c4hKXqiheiOi78HZhUevDK/i76tb4jHubMj6KPkvLiPucOH+ASt1eZRLQ==;EndpointSuffix=core.windows.net"
